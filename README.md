@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=santrafael&show_icons=true&theme=outrun" />
-  <img height="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santrafael&theme=outrun" />
+  <img height="160vh" src="https://github-readme-stats.vercel.app/api?username=santrafael&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="160vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santrafael&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div align="center">
