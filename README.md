@@ -1,7 +1,17 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santrafael&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santrafael&theme=outrun)](https://github.com/santrafael/github-readme-stats)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 <!--
 **SantRafael/santrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
