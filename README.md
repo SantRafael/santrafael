@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santrafael&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santrafael&theme=outrun)](https://github.com/santrafael/github-readme-stats)
 <!--
 **SantRafael/santrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
