@@ -3,7 +3,6 @@
 <br>
 
 * 🎓 Sistemas para Internet
-* ♨️ Santander Bootcamp 2022
 * 💻 Desenvolvedor Web Full Stack
 
 <div align="center">
